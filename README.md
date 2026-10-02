@@ -2,7 +2,7 @@
 
 A support automation agency needs to sort incoming requests and catch questionable routes before a help-desk handoff. QueueProof suggests one of 77 banking support intents, shows competing candidates, keeps low-margin messages for a person, and exports the accepted or manually corrected suggestions. It runs on real public BANKING77 messages rather than made-up happy-path tickets.
 
-**Deployment status:** working local static demo; public URL will be added only after deployment and a cold check. No live-host claim is made here. Default hosting is a $0 GitHub Pages engineering demonstration. No customer production integration is included.
+**[Open the live demo](https://azamali992.github.io/support-routing-workbench/).** Published on free GitHub Pages and checked from a fresh headless browser on 3 October 2026: model inference, a naturally wrong suggestion sent for review, human correction, CSV export and reset passed. Twelve browser/Python score checks had a maximum difference of **1.17e-9**, with zero browser errors. One cold public load took **8.70 seconds** on the capture machine; this is a single observation, not a speed guarantee. No customer production integration is included.
 
 ## Try it in 60 seconds
 
