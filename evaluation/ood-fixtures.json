@@ -1,0 +1,30 @@
+[
+  {
+    "text": "What is the weather in Karachi?",
+    "synthetic": true,
+    "prediction": "exchange_rate",
+    "margin": 0.008037692114459039,
+    "would_accept": false
+  },
+  {
+    "text": "Please book a dentist appointment tomorrow",
+    "synthetic": true,
+    "prediction": "cancel_transfer",
+    "margin": 0.6699456329877924,
+    "would_accept": true
+  },
+  {
+    "text": "How do I bake a birthday cake?",
+    "synthetic": true,
+    "prediction": "verify_my_identity",
+    "margin": 0.2161146347184888,
+    "would_accept": false
+  },
+  {
+    "text": "Cardboard packaging delivery was delayed",
+    "synthetic": true,
+    "prediction": "card_delivery_estimate",
+    "margin": 0.22093943542344285,
+    "would_accept": false
+  }
+]

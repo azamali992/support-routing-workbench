@@ -1,0 +1,13 @@
+{
+  "url": "http://127.0.0.1:54674/",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "cold_load_seconds": 0.9335614999872632,
+  "browser_python_max_score_delta": 1.1679823774812803e-09,
+  "golden_queries": 12,
+  "page_errors": [],
+  "happy_path_review_confirm_export_reset": "passed",
+  "captured_date": "2026-10-03"
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "banking77-test-2",
+    "truth": "card_arrival",
+    "prediction": "transfer_not_received_by_recipient",
+    "margin": 0.08526113241168376,
+    "review": true
+  },
+  {
+    "id": "banking77-test-20",
+    "truth": "card_arrival",
+    "prediction": "lost_or_stolen_card",
+    "margin": 0.012779404934934346,
+    "review": true
+  },
+  {
+    "id": "banking77-test-26",
+    "truth": "card_arrival",
+    "prediction": "card_delivery_estimate",
+    "margin": 0.09843280488050021,
+    "review": true
+  },
+  {
+    "id": "banking77-test-4",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.058354885067302575,
+    "review": true
+  },
+  {
+    "id": "banking77-test-8",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.22568026476440417,
+    "review": true
+  },
+  {
+    "id": "banking77-test-16",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.2541302233692462,
+    "review": true
+  },
+  {
+    "id": "banking77-test-32",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.24821286787119445,
+    "review": true
+  },
+  {
+    "id": "banking77-test-33",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.29148465130953505,
+    "review": true
+  },
+  {
+    "id": "banking77-test-1",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.7841379551631695,
+    "review": false
+  },
+  {
+    "id": "banking77-test-3",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.6179021768968956,
+    "review": false
+  },
+  {
+    "id": "banking77-test-6",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.579773979535846,
+    "review": false
+  },
+  {
+    "id": "banking77-test-7",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.8882666909209465,
+    "review": false
+  },
+  {
+    "id": "banking77-test-9",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.7283845543583625,
+    "review": false
+  },
+  {
+    "id": "banking77-test-10",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.2692867680553501,
+    "review": false
+  },
+  {
+    "id": "banking77-test-12",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.47431426343420946,
+    "review": false
+  },
+  {
+    "id": "banking77-test-13",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.2481974394794935,
+    "review": false
+  },
+  {
+    "id": "banking77-test-14",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.9943067797942728,
+    "review": false
+  },
+  {
+    "id": "banking77-test-15",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.5432206965844734,
+    "review": false
+  },
+  {
+    "id": "banking77-test-17",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.9981648763057887,
+    "review": false
+  },
+  {
+    "id": "banking77-test-18",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.4594378456483517,
+    "review": false
+  },
+  {
+    "id": "banking77-test-19",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.3316234295388103,
+    "review": false
+  },
+  {
+    "id": "banking77-test-21",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.7813895620309312,
+    "review": false
+  },
+  {
+    "id": "banking77-test-22",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.4686469396027334,
+    "review": false
+  },
+  {
+    "id": "banking77-test-23",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.0509616791666827,
+    "review": false
+  },
+  {
+    "id": "banking77-test-24",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.3816949591063754,
+    "review": false
+  },
+  {
+    "id": "banking77-test-25",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.65528644099374,
+    "review": false
+  },
+  {
+    "id": "banking77-test-27",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.8712366144395175,
+    "review": false
+  },
+  {
+    "id": "banking77-test-28",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.529959654628597,
+    "review": false
+  },
+  {
+    "id": "banking77-test-29",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 2.160210991271331,
+    "review": false
+  },
+  {
+    "id": "banking77-test-30",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.6482634014695001,
+    "review": false
+  },
+  {
+    "id": "banking77-test-31",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.1975032055891717,
+    "review": false
+  },
+  {
+    "id": "banking77-test-34",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.7478658870118557,
+    "review": false
+  },
+  {
+    "id": "banking77-test-35",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 1.2322099736290406,
+    "review": false
+  },
+  {
+    "id": "banking77-test-37",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 0.8827390080943225,
+    "review": false
+  },
+  {
+    "id": "banking77-test-38",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 2.009172526488696,
+    "review": false
+  },
+  {
+    "id": "banking77-test-39",
+    "truth": "card_arrival",
+    "prediction": "card_arrival",
+    "margin": 2.1784874499754365,
+    "review": false
+  },
+  {
+    "id": "banking77-test-40",
+    "truth": "card_linking",
+    "prediction": "card_linking",
+    "margin": 0.8624752301271873,
+    "review": false
+  },
+  {
+    "id": "banking77-test-41",
+    "truth": "card_linking",
+    "prediction": "card_linking",
+    "margin": 1.6304536583945977,
+    "review": false
+  },
+  {
+    "id": "banking77-test-42",
+    "truth": "card_linking",
+    "prediction": "card_linking",
+    "margin": 2.1781566406018262,
+    "review": false
+  },
+  {
+    "id": "banking77-test-43",
+    "truth": "card_linking",
+    "prediction": "card_linking",
+    "margin": 1.1166417145732255,
+    "review": false
+  }
+]
